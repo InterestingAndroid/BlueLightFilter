@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueLightFilter</string>
+    <string name="bluelight_filter_level">BlueLight Filter Level</string>
+</resources>
