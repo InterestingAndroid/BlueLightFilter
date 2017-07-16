@@ -1,12 +1,12 @@
-##BlueLight Filter
+###  BlueLight Filter
 
 
-##Gif
+###  Gif
 
-	![image](https://github.com/InterestingAndroid/BlueLightFilter/blob/master/demo.gif)
+![image](https://github.com/InterestingAndroid/BlueLightFilter/blob/master/demo.gif)
 
 
-##Thanks
+###  Thanks
 	Everyone who has contributed code and reported issues and pull requests!
 
 
